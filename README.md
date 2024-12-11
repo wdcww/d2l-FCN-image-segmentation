@@ -10,6 +10,8 @@ _全卷积网络_（fully convolutional network，_FCN_）采用卷积神经网�
 
 我学习使用的代码是从 https://D2L.ai 下载到的jupyter notebook（pytorch版），参考了李沐老师在bilibili的视频资源。
 
+##  更多后续请跳转本人gitee仓库： https://gitee.com/wdcww/d2l-pytorch-FCN-small-improvements
+
 # 一、仓库目录介绍
 ```
    ─some_define.py 
